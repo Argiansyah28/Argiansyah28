@@ -6,7 +6,7 @@
 </div>
 
 
-I'm Argiansyah Galih Permata, an Information Systems student at Telkom University. I have a strong passion for full-stack development and data science. 
+Hi! My name is Argiansyah Galih Permata, an Information Systems student at Telkom University. I have a strong passion for Technical Leading, full-stack development and data science. 
 
 
 
